@@ -1,9 +1,9 @@
-2e1265a4038eb31a97c23f8cd7af6d07 *DESCRIPTION
+5e87612a9c715c2c0ef9cc008ba1c0e1 *DESCRIPTION
 158bc8bcabaf2dcb3aefad32f7cd8577 *NAMESPACE
 3a0173ebf7448be17c4a00f6509258fc *R/metaSDTdata.r
-d385e9f20fe9bcc5bb2bf5711d2669d6 *R/metaSDTreg.r
+8742dc30351bb5c54d5ad380714ec76a *R/metaSDTreg.r
 3f92fea1d40c299fb7f0b59a8603d564 *R/predict_roc.r
-f9f5e15fc50e34c89e4915767d88fd6a *data/simMetaData.rda
+5346505778800acbd8f2efc0e2ea2516 *data/simMetaData.rda
 879d6e7e41e973c74a3754f4523ea893 *man/ROCcoords.Rd
 5e21936f33505b95a2fc825171de15c9 *man/coef.metaSDTreg.Rd
 2a6abfd52709d2c03f3a5f3872ed5a17 *man/lines.predict_roc.Rd
@@ -11,7 +11,7 @@ f9f5e15fc50e34c89e4915767d88fd6a *data/simMetaData.rda
 0f89f93c6bd57ece6baf2a52cebedc4c *man/metaSDT.loglik.Rd
 b071034bf13dd70a8ea0807d3c3b2172 *man/metaSDTcontrol.Rd
 0ececf6a124109da74cc1fd87cf3dbbe *man/metaSDTdata.Rd
-957ce9fb0c3792ad07df2ce9f84a40ff *man/metaSDTreg.Rd
+d3a7c269bb7aab291be4bbd687c4f955 *man/metaSDTreg.Rd
 d3193187b3322cce240cb7feb5f7cbb0 *man/plot.predict_roc.Rd
 4176e56e2e3589e7a99cd848222cf8af *man/points.predict_roc.Rd
 2d7e984f919fc14b354e429228b9b866 *man/predict_roc.Rd
@@ -21,7 +21,7 @@ d3193187b3322cce240cb7feb5f7cbb0 *man/plot.predict_roc.Rd
 ae55d68c347b509b68405ea5a031fcac *man/print.metaSDTreg.Rd
 5639c8a66dcb24b56f0461b9d1578200 *man/print.summary.metaSDTdata.Rd
 dd83bc91e70f7913e821e12da300f5e0 *man/print.summary.metaSDTreg.Rd
-b97ecfb06ea7dc776537e855a428ddd3 *man/simMetaData.Rd
+084e294f47f2177626f2e2edd95c95f3 *man/simMetaData.Rd
 8101087b8337ae936d14d6841ae70d6b *man/starting.vals.PPO.Rd
 1810e9c1c6cf549611b12d19b88d8afb *man/summary.metaSDTdata.Rd
 8e225d1ce29e9353e1f614291b7ea6c5 *man/summary.metaSDTreg.Rd

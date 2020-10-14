@@ -4,14 +4,16 @@
 \name{simMetaData}
 \alias{simMetaData}
 \title{Simulated metacognition experiment}
-\format{A data frame with 25000 obs. of  5 variables:
+\format{
+A data frame with 25000 obs. of  5 variables:
 \describe{
   \item{id}{Subject id.}
   \item{m}{Observation id, within subject.}
   \item{S}{Signal indicator (0 or 1).}
   \item{resp}{Type 1 response (0 or 1).}
   \item{conf}{Type 2 response, ordered (1, 2 or 3).} 
-}}
+}
+}
 \usage{
 simMetaData
 }

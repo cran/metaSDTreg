@@ -44,6 +44,8 @@ This can be written formally as follows (in the notation of Kristensen & al. (20
 and \eqn{ \beta_{\mathcal{N}} }, \eqn{ \beta_{\mathcal{S}} } and \eqn{ \beta } agree on all but the first entrance which is the signal sensitivities \eqn{ d_{mathcal{N}} }, \eqn{ d_{mathcal{S}} } and \eqn{ d }, respectively.
 Note that 'formula' specifies the mean of the latent variables and not the threshold model. Accordingly, attemps to remove the intercept in 'formula' will be ignored with a warning.
 The function fails when the left-hand side of 'formula' is not the ordinal variable 'A' and when 'data' is not a 'metaSDTdata' object. Future versions may be less defensive and simply issue a warning in these cases.
+Note that constrained optimisation is used to maximise the likelihood under ordinality of the thresholds. The variance-covariance matrix is not adjusted following the constrained estimation, cf. documentation of \code{\link[maxLik]{maxLik}}.
+When interpreting results from \code{summary.metaSDTreg()} care should be taken regarding the z-testor and associated p-value for threshold parameters, as the distribution of the statistic depends on the null hypothesis which will only be reasonable under special circumstances as in other types of ordinal models.
 }
 \examples{
 ## Declare simulated data as metaSDTdata
