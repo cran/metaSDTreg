@@ -1,9 +1,9 @@
-5e87612a9c715c2c0ef9cc008ba1c0e1 *DESCRIPTION
+555c7e6087638297d0cfaebd3fd928b2 *DESCRIPTION
 158bc8bcabaf2dcb3aefad32f7cd8577 *NAMESPACE
 3a0173ebf7448be17c4a00f6509258fc *R/metaSDTdata.r
 8742dc30351bb5c54d5ad380714ec76a *R/metaSDTreg.r
 3f92fea1d40c299fb7f0b59a8603d564 *R/predict_roc.r
-5346505778800acbd8f2efc0e2ea2516 *data/simMetaData.rda
+6afc2435e3b392253c589f285a381db4 *data/simMetaData.rda
 879d6e7e41e973c74a3754f4523ea893 *man/ROCcoords.Rd
 5e21936f33505b95a2fc825171de15c9 *man/coef.metaSDTreg.Rd
 2a6abfd52709d2c03f3a5f3872ed5a17 *man/lines.predict_roc.Rd
